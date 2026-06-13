@@ -5,8 +5,6 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 # pylint: disable=import-outside-toplevel
 
 
-from turtle import pd
-
 
 def pregunta_01():
     """
